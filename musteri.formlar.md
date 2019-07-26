@@ -5,6 +5,7 @@ telefon no ve parola ile giriş yapılacak form
 - ad soyad
 - telefon no
 - parola
+- e posta adresi
 - adres bilgileri
   -- il
   -- ilçe
@@ -14,6 +15,7 @@ telefon no ve parola ile giriş yapılacak form
   -- bina no
   -- kapı no
 - adres tarifi
+- üyelik sözleşmesi
 
 # kullanıcı menüsü
 kullanıcının son verdiği siparişin durumu bu ekranda gösterillir.
